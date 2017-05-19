@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973963584452",
+    "firebase_url": "https://automatictestgrader.firebaseio.com",
+    "project_id": "automatictestgrader",
+    "storage_bucket": "automatictestgrader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973963584452:android:e5d6573940a7a098",
+        "android_client_info": {
+          "package_name": "com.example.android.automatictestgrader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973963584452-u17j247moaf8pmnfn1uv4o6dv6m2umld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.automatictestgrader",
+            "certificate_hash": "d8f4f54610755d586dbd5b64421f76ec3fa1bf62"
+          }
+        },
+        {
+          "client_id": "973963584452-qj8apvnrvucrcs4650cdai61ue32upho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_lChvNDUpDTezQPwh4h-QO0LuXTB8eys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973963584452-qj8apvnrvucrcs4650cdai61ue32upho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
